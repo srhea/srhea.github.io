@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/srhea
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.srhea.net
+  * I am srhea (https://keybase.io/srhea) on keybase.
+  * I have a public key with fingerprint B223 C5BF DB06 90B3 1549  B778 5190 14A7 3A79 0824
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b223c5bfdb0690b31549b778519014a73a790824",
+            "host": "keybase.io",
+            "key_id": "519014a73a790824",
+            "uid": "f279f32ac2f45b4ba38cee49ec88de00",
+            "username": "srhea"
+        },
+        "service": {
+            "hostname": "www.srhea.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1408751000,
+    "expire_in": 157680000,
+    "prev": "c870f50871e933738ef345fcf82d3064c78fd766921aff64614a04f66eba69b8",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkVtIFFEYx2dXKxXtQgWiPo0SmrqeuZ/ZDVrNIDES7WYWbnM5o4M6s83O7raI
+hFCSdsEEibClh8As6CVBMsEyMoughyKMgkJZRYrKlNwtkppZ7K2nw/l/v///fN/5
+erNSMKejtnfbLXckrcDx4tGiiB2Mv4m246IuR3B3O96Ckoeiak3I8BuqZuJuXCRJ
+SmJERRYBywORIhiaFzkOMgQPCFrgKIHjASRpvARv1gO2w4oRhQByqbqlWRefKlvq
+f/hgsqCQHK9QpCCRCs2ItChQUEKI5pEEoYwAsMEAMjShDVl0wGhGAt5RgltSSJWQ
+3bD97lo5HA67kohLQ6bl9Bu6qUt6q1VqNk2/23aaEX8SRaJvLcQnqppsTW0ZQsgI
+qLqGuwmLlEzVTiVoADmGAACU4Oi0XzWQT7UJhmMhSKp+A4WsSAlyQGEsmEA8RXEU
+RApFM4qkQFKmAEtLHFRkjmV5khAUhaVZ60MArbAsEgWWFyFuj3VK03E3bbUpNNnz
+qk2aYAYNhHdkdDvyUjGHE1u/zmkvDstI3/xvnS0X0rCx4cY9KH5JUIsqE9i78eqn
+u2ZhqPKq5rm2XFC+t+HKYHb/SMVcXvWPV3Ao/fuZwUPb80+EJLIo6PF+cc8sVfQM
+PDzSGnjbs/FibD8dpYc/l45KxxNzwX1V47vff70zXtOfagixk3c7vZeLhesU+LAz
+d3RLeGLi2XL85kDcmT06vaEq4C3rnoK/63zOFdcnM9bXVrx1RFltepwjkw2z87Xt
+1Zn1RtRbV1z27WXf2dzc6M9jR29n1kTis4cTfybvNaKUeZ57EomtTufXLyzBTSu/
+ZroOeMY+no+ndb2+cX+I6BIXcrISk53Yg1JjqmVx/UhhaXnf83OeHVyh/Bc=
+=Uz9d
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/srhea
+
+==================================================================
