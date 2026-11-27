@@ -10,3 +10,9 @@ body { font: 14px 'Helvetica Neue', Helvetica, arial, sans-serif }
 #notes li { padding: .5em 0 }
 #footer address { text-align: center }
 #footer { clear: both; margin: 20px }
+#memorial { text-align: center; margin: 0 0 1.5em }
+#obituary { max-width: 40em; margin-left: auto; margin-right: auto; line-height: 1.5 }
+#obituary img { display: block; max-width: 100%; height: auto; margin: 0 auto 1.5em }
+#obituary .whistle { text-align: center }
+#obituary audio { max-width: 100% }
+#obituary .back { margin-top: 2em; text-align: center }
